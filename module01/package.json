@@ -1,0 +1,17 @@
+{
+  "name": "module01",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "watch": "tsc -p . --watch",
+    "serve": "http-server -a localhost -p 8080 -c-1",
+    "start": "concurrently yarn:watch yarn:serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "http-server": "^14.1.1",
+    "typescript": "^5.1.6"
+  }
+}
