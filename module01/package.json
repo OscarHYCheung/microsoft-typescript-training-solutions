@@ -7,7 +7,10 @@
     "serve": "http-server -a localhost -p 8080 -c-1",
     "start": "concurrently yarn:watch yarn:serve"
   },
-  "author": "",
+  "author": {
+    "name": "Oscar Cheung",
+    "email": "hello@oscarcheung.me"
+  },
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^8.2.0",
