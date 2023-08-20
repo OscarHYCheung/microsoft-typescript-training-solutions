@@ -1,4 +1,4 @@
-# Module 02 - Implement interfaces in TypeScript
+# Module 03 - Implement interfaces in TypeScript
 
 This is the solution to the [Lab Section](https://learn.microsoft.com/en-us/training/modules/typescript-implement-interfaces/6-interfaces-lab) of [Implement interfaces in TypeScript](https://learn.microsoft.com/en-us/training/modules/typescript-implement-interfaces/).
 
