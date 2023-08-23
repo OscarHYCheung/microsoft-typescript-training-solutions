@@ -11,14 +11,18 @@ This is the solution to the [Lab Section](https://learn.microsoft.com/en-us/trai
 
 ## Knowledge Check
 
-### Q1: What is a difference between function parameters in TypeScript and function parameters in JavaScript?
+### Q1: How many `constructor` functions can you include in a class definition?
 
-A1: TypeScript parameters are required by default, but can be made optional. JavaScript parameters are always optional.
+A1: One.
 
-### Q2: What is a common use for an anonymous function?
+### Q2: What happens if you omit the `get` accessor for a class property?
 
-A2: Make the property optional.
+A2: You will not be able to return its value from your code.
 
-### Q3: How should you define a function type if you need to extend it?
+### Q3: Which access modifier should you use if you don't want a method to be accessible from code outside the class but also want to make it available inside other classes that derive from the class?
 
-A3: Define it with an interface.
+A3: `protected`.
+
+### Q4: When extending a class, what is the purpose of the super keyword?
+
+A4: Ot executes the `constructor` of the base class when it runs.
