@@ -1,6 +1,6 @@
 # Module 04 - Develop typed functions by using TypeScript
 
-This is the solution to the [Lab Section](https://learn.microsoft.com/en-us/training/modules/typescript-develop-typed-functions/7-functions-lab) of [Build JavaScript applications using TypeScript ](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-typescript/).
+This is the solution to the [Lab Section](https://learn.microsoft.com/en-us/training/modules/typescript-develop-typed-functions/7-functions-lab) of [Develop typed functions by using TypeScript](https://learn.microsoft.com/en-us/training/modules/typescript-develop-typed-functions/).
 
 ## Get Started
 
